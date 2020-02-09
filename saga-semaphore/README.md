@@ -1,7 +1,7 @@
 # redux-sagaで排他制御をするサンプル
 
 ## 概要
-[]()
+[redux-sagaで排他制御をするサンプル](https://qiita.com/somq14/items/47de0e36dd7fb9c51a45)
 
 ## 前提
 - node
