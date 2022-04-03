@@ -5,8 +5,9 @@
     "format": "prettier --write src/**/*.js"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0",
+    "@babel/core": "^7.17.8",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
     "prettier": "^2.6.2"
   },
   "dependencies": {
