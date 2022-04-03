@@ -2,12 +2,12 @@
   "license": "MIT",
   "scripts": {
     "start": "babel-node src/main.js",
-    "beautify": "prettier --write --no-semi --trailing-comma es5 src/**/*.js"
+    "format": "prettier --write src/**/*.js"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "prettier": "^1.19.1"
+    "prettier": "^2.6.2"
   },
   "dependencies": {
     "await-semaphore": "^0.1.3",
